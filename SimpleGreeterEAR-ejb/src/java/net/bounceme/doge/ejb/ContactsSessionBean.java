@@ -11,6 +11,9 @@ public class ContactsSessionBean implements ContactsSessionBeanRemote {
     @EJB
     private ContactsFacadeLocal contactsFacade;
 
+    //comment here
+    
+    
     @Override
     public String getAllContacts() {
       //  List<Contacts> all = contactsFacade.findAll();
