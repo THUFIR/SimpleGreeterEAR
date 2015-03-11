@@ -24,5 +24,3 @@ thufir@doge:~/NetBeansProjects/corba$ appclient -client GreeterCorbaClient/dist/
 {org.omg.CORBA.ORBInitialPort=3700, java.naming.factory.initial=com.sun.enterprise.naming.impl.SerialInitContextFactory, Context.SECURITY_CREDENTIALS=pass123, org.omg.CORBA.ORBInitialHost=localhost, java.naming.factory.url.pkgs=com.sun.enterprise.naming, java.naming.factory.state=com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl, Context.SECURITY_PRINCIPAL=user1}
 [fred, flinstone, barney, rubble, wilma]
 thufir@doge:~/NetBeansProjects/corba$ 
-
-
